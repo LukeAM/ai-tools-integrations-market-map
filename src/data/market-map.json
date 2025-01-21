@@ -129,6 +129,14 @@
               "x": "@cartesia_ai"
             },
             {
+              "name": "Baseten",
+              "description": "Fast, scalable inference in our cloud or yours. Built for when performance, security, and reliability matter, wrapped with a delightful developer experience.",
+              "logo": "/images/baseten.png",
+              "link": "https://baseten.co/",
+              "github": "basetenlabs",
+              "x": "@basetenco"
+            },
+            {
               "name": "Fireworks",
               "description": "Provides easy access to open-source language models through a simple API, similar to offerings from closed-source providers.",
               "logo": "/images/fireworks-ai.svg",
